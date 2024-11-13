@@ -4,4 +4,4 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tmg_aqua)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tmg.aqua)
-[![Gmail](https://img.shields.io/badge/Gmail-D1483?style=for-the-badge&logo=gmail&logoColor=white)](ezeskijn9gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D1483?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/ezeskijn9gmail.com)
