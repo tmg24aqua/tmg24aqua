@@ -16,7 +16,7 @@
 </a>
 </p>
 <p>
-<a href="ezerskijn9@gmail.com">
+<a href="mail:ezerskijn9@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" width="150" height="40px" />
 </a>
 </p>
