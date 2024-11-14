@@ -11,10 +11,10 @@
   <!-- Вторая строка с графиками -->
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmg24aqua&layout=donut&theme=radical" width="500" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmg24aqua&layout=donut&theme=merko" width="500" height="300" />
     </td>
     <td>
-      <img src="https://leetcard.jacoblin.cool/tmg_aqua?theme=nord&font=Cutive" alt="ovi" width="500" />
+      <img src="https://leetcard.jacoblin.cool/tmg_aqua?theme=nord&font=Cutive" alt="ovi" width="500"  height="300" />
     </td>
   </tr>
 
