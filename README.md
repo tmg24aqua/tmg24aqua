@@ -7,16 +7,16 @@
 
 <p>
 <a href="https://t.me/tmg_aqua" >
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white" width="150" height="40px"/>
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white" width="150px" height="40px"/>
 </a>
 </p>
 <p>
 <a href="https://www.instagram.com/tmg.aqua">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white" width="150" height="40px"/>
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white" width="150px" height="40px"/>
 </a>
 </p>
 <p>
 <a href="mailto:ezerskijn9@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" width="150" height="40px" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" width="150px" height="40px" />
 </a>
 </p>
