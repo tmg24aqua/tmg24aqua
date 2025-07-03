@@ -21,12 +21,12 @@
   <!-- Третья строка с кнопками Telegram и Instagram -->
   <tr>
     <td align="right">
-      <a href="//https://t.me/tmg_aqua">
+      <a href="[//https://t.me/tmg_aqua](https://t.me/tmg_aqua)">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white" width="150px" height="40px" />
       </a>
     </td>
     <td>
-      <a href="//https://www.instagram.com/tmg.aqua">
+      <a href="[//https://www.instagram.com/tmg.aqua](https://www.instagram.com/tmg.aqua/)">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white" width="150px" height="40px" />
       </a>
     </td>
