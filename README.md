@@ -26,7 +26,7 @@
       </a>
     </td>
     <td>
-      <a href="https://www.instagram.com/tmg.aqua">
+      <a href="https://www.instagram.com/tmg.aqua?igsh=MTkwa25vcHNoOGVqOQ==">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white" width="150px" height="40px" />
       </a>
     </td>
